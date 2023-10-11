@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/c0999686/Documents/Unreal Projects/Gnomes_on_the_roam/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/c0999686/Documents/Unreal Projects/Gnomes_on_the_roam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/L9/TKWJG3ZPA3B0Z0M49WFWKM.uasset",
+				"C:/Users/c0999686/Documents/Unreal Projects/Gnomes_on_the_roam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/TF/HIWIR9QLWBC5SXO4JLEJCO.uasset",
+				"C:/Users/c0999686/Documents/Unreal Projects/Gnomes_on_the_roam/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/c0999686/Documents/Unreal Projects/Gnomes_on_the_roam/Content/BP_SaveGame.uasset",
+				"C:/Users/c0999686/Documents/Unreal Projects/Gnomes_on_the_roam/Content/BP_GameInstance.uasset",
+				"C:/Users/c0999686/Documents/Unreal Projects/Gnomes_on_the_roam/Content/BP_point_pickup.uasset",
+				"C:/Users/c0999686/Documents/Unreal Projects/Gnomes_on_the_roam/Content/WB_HUD.uasset"
+			]
+		}
+	]
+}
