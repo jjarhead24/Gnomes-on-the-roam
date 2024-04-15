@@ -2089,6 +2089,166 @@
 			"ChunkId": "1e14f95f25a511c200000001"
 		},
 		{
+			"Path": "Gnomes_on_the_roam/Content/Audio/ambient.uasset",
+			"ChunkId": "5598e421e3cbc14700000001"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/Audio/ambient.ubulk",
+			"ChunkId": "5598e421e3cbc14700000002"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/Audio/chip.uasset",
+			"ChunkId": "72c906a85ead190b00000001"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/Audio/chip.ubulk",
+			"ChunkId": "72c906a85ead190b00000002"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/Audio/Electricty_ZS.uasset",
+			"ChunkId": "56cb3f1d7ddc7e0100000001"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/Audio/Electricty_ZS.ubulk",
+			"ChunkId": "56cb3f1d7ddc7e0100000002"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/Audio/footsteps-loop.uasset",
+			"ChunkId": "984a1e25b249530a00000001"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/Audio/footsteps-loop.ubulk",
+			"ChunkId": "984a1e25b249530a00000002"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/Audio/gate.uasset",
+			"ChunkId": "22bb6b4eac20b3be00000001"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/Audio/gate.ubulk",
+			"ChunkId": "22bb6b4eac20b3be00000002"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/Audio/gnome-more-mister-nice-guy.uasset",
+			"ChunkId": "5958c7d028b6a68c00000001"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/Audio/gnome-more-mister-nice-guy.ubulk",
+			"ChunkId": "5958c7d028b6a68c00000002"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/Audio/laser-body-loop.uasset",
+			"ChunkId": "ee19c73cd4bf5c6500000001"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/Audio/laser-body-loop.ubulk",
+			"ChunkId": "ee19c73cd4bf5c6500000002"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/Audio/laser-end.uasset",
+			"ChunkId": "773128a6fed74ee100000001"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/Audio/laser-end.ubulk",
+			"ChunkId": "773128a6fed74ee100000002"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/Audio/laser-start.uasset",
+			"ChunkId": "a89c5ad0166fd54800000001"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/Audio/laser-start.ubulk",
+			"ChunkId": "a89c5ad0166fd54800000002"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/Audio/Pistol_Click_ZS.uasset",
+			"ChunkId": "490235ba4273851200000001"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/Audio/Pistol_Click_ZS.ubulk",
+			"ChunkId": "490235ba4273851200000002"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/Audio/Pistol_Mag_in_ZS.uasset",
+			"ChunkId": "87936612706ee4f500000001"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/Audio/Pistol_Mag_in_ZS.ubulk",
+			"ChunkId": "87936612706ee4f500000002"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/Audio/Pistol_Mag_out_ZS.uasset",
+			"ChunkId": "2a508e3b7ed6d32a00000001"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/Audio/Pistol_Mag_out_ZS.ubulk",
+			"ChunkId": "2a508e3b7ed6d32a00000002"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/Audio/Pistol_Shot_Upgraded_ZS.uasset",
+			"ChunkId": "06a4ec1650011c2300000001"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/Audio/Pistol_Shot_Upgraded_ZS.ubulk",
+			"ChunkId": "06a4ec1650011c2300000002"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/Audio/Pistol_Shot_ZS.uasset",
+			"ChunkId": "d3c3bd89d716b6a400000001"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/Audio/Pistol_Shot_ZS.ubulk",
+			"ChunkId": "d3c3bd89d716b6a400000002"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/Audio/Purchase.uasset",
+			"ChunkId": "b95d37775691862500000001"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/Audio/Purchase.ubulk",
+			"ChunkId": "b95d37775691862500000002"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/Audio/Rifle_Shot_Upgraded_ZS.uasset",
+			"ChunkId": "19a9fc7dcbfbfda400000001"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/Audio/Rifle_Shot_Upgraded_ZS.ubulk",
+			"ChunkId": "19a9fc7dcbfbfda400000002"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/Audio/Rifle_Shot_ZS.uasset",
+			"ChunkId": "7dfc6a790b3ccb1300000001"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/Audio/Rifle_Shot_ZS.ubulk",
+			"ChunkId": "7dfc6a790b3ccb1300000002"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/Audio/SA_Electrcity.uasset",
+			"ChunkId": "4290efeb6eb591fb00000001"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/Audio/SA_GnomeWalk.uasset",
+			"ChunkId": "d17fe828786c2ccc00000001"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/Audio/shatter.uasset",
+			"ChunkId": "22f9578aafb023f600000001"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/Audio/shatter.ubulk",
+			"ChunkId": "22f9578aafb023f600000002"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/Audio/your-days-are-gnomebered.uasset",
+			"ChunkId": "2896f4643e25ee4300000001"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/Audio/your-days-are-gnomebered.ubulk",
+			"ChunkId": "2896f4643e25ee4300000002"
+		},
+		{
 			"Path": "Gnomes_on_the_roam/Content/BluePrints/BP_AssualtRifle.uasset",
 			"ChunkId": "a8368f51922281ae00000001"
 		},
@@ -2113,6 +2273,10 @@
 			"ChunkId": "a3ae8ed51b9a078900000001"
 		},
 		{
+			"Path": "Gnomes_on_the_roam/Content/BluePrints/BP_Laser_Sound.uasset",
+			"ChunkId": "11562658b7823e4200000001"
+		},
+		{
 			"Path": "Gnomes_on_the_roam/Content/BluePrints/BP_Lasers.uasset",
 			"ChunkId": "22caf7af0cb58f2d00000001"
 		},
@@ -2131,10 +2295,6 @@
 		{
 			"Path": "Gnomes_on_the_roam/Content/BluePrints/BP_seedbox.uasset",
 			"ChunkId": "803e7329cfb45dcb00000001"
-		},
-		{
-			"Path": "Gnomes_on_the_roam/Content/BluePrints/BP_seedbox_Child.uasset",
-			"ChunkId": "8ba29e876172bb6600000001"
 		},
 		{
 			"Path": "Gnomes_on_the_roam/Content/BluePrints/BP_Sunny.uasset",
@@ -4999,10 +5159,6 @@
 		{
 			"Path": "Gnomes_on_the_roam/Content/SM_HealthCross.ubulk",
 			"ChunkId": "845108d94a77a3ff00000002"
-		},
-		{
-			"Path": "Gnomes_on_the_roam/Content/standardSurface1.uasset",
-			"ChunkId": "98b4dd1b4ddb78df00000001"
 		},
 		{
 			"Path": "Gnomes_on_the_roam/Content/StarterContent/Architecture/Floor_400x400.uasset",
@@ -9119,6 +9275,189 @@
 			]
 		},
 		{
+			"Name": "/Game/Audio/ambient",
+			"ExportBundleChunkIds": [
+				"5598e421e3cbc14700000001"
+			],
+			"BulkDataChunkIds": [
+				"5598e421e3cbc14700000002"
+			]
+		},
+		{
+			"Name": "/Game/Audio/chip",
+			"ExportBundleChunkIds": [
+				"72c906a85ead190b00000001"
+			],
+			"BulkDataChunkIds": [
+				"72c906a85ead190b00000002"
+			]
+		},
+		{
+			"Name": "/Game/Audio/Electricty_ZS",
+			"ExportBundleChunkIds": [
+				"56cb3f1d7ddc7e0100000001"
+			],
+			"BulkDataChunkIds": [
+				"56cb3f1d7ddc7e0100000002"
+			]
+		},
+		{
+			"Name": "/Game/Audio/footsteps-loop",
+			"ExportBundleChunkIds": [
+				"984a1e25b249530a00000001"
+			],
+			"BulkDataChunkIds": [
+				"984a1e25b249530a00000002"
+			]
+		},
+		{
+			"Name": "/Game/Audio/gate",
+			"ExportBundleChunkIds": [
+				"22bb6b4eac20b3be00000001"
+			],
+			"BulkDataChunkIds": [
+				"22bb6b4eac20b3be00000002"
+			]
+		},
+		{
+			"Name": "/Game/Audio/gnome-more-mister-nice-guy",
+			"ExportBundleChunkIds": [
+				"5958c7d028b6a68c00000001"
+			],
+			"BulkDataChunkIds": [
+				"5958c7d028b6a68c00000002"
+			]
+		},
+		{
+			"Name": "/Game/Audio/laser-body-loop",
+			"ExportBundleChunkIds": [
+				"ee19c73cd4bf5c6500000001"
+			],
+			"BulkDataChunkIds": [
+				"ee19c73cd4bf5c6500000002"
+			]
+		},
+		{
+			"Name": "/Game/Audio/laser-end",
+			"ExportBundleChunkIds": [
+				"773128a6fed74ee100000001"
+			],
+			"BulkDataChunkIds": [
+				"773128a6fed74ee100000002"
+			]
+		},
+		{
+			"Name": "/Game/Audio/laser-start",
+			"ExportBundleChunkIds": [
+				"a89c5ad0166fd54800000001"
+			],
+			"BulkDataChunkIds": [
+				"a89c5ad0166fd54800000002"
+			]
+		},
+		{
+			"Name": "/Game/Audio/Pistol_Click_ZS",
+			"ExportBundleChunkIds": [
+				"490235ba4273851200000001"
+			],
+			"BulkDataChunkIds": [
+				"490235ba4273851200000002"
+			]
+		},
+		{
+			"Name": "/Game/Audio/Pistol_Mag_in_ZS",
+			"ExportBundleChunkIds": [
+				"87936612706ee4f500000001"
+			],
+			"BulkDataChunkIds": [
+				"87936612706ee4f500000002"
+			]
+		},
+		{
+			"Name": "/Game/Audio/Pistol_Mag_out_ZS",
+			"ExportBundleChunkIds": [
+				"2a508e3b7ed6d32a00000001"
+			],
+			"BulkDataChunkIds": [
+				"2a508e3b7ed6d32a00000002"
+			]
+		},
+		{
+			"Name": "/Game/Audio/Pistol_Shot_Upgraded_ZS",
+			"ExportBundleChunkIds": [
+				"06a4ec1650011c2300000001"
+			],
+			"BulkDataChunkIds": [
+				"06a4ec1650011c2300000002"
+			]
+		},
+		{
+			"Name": "/Game/Audio/Pistol_Shot_ZS",
+			"ExportBundleChunkIds": [
+				"d3c3bd89d716b6a400000001"
+			],
+			"BulkDataChunkIds": [
+				"d3c3bd89d716b6a400000002"
+			]
+		},
+		{
+			"Name": "/Game/Audio/Purchase",
+			"ExportBundleChunkIds": [
+				"b95d37775691862500000001"
+			],
+			"BulkDataChunkIds": [
+				"b95d37775691862500000002"
+			]
+		},
+		{
+			"Name": "/Game/Audio/Rifle_Shot_Upgraded_ZS",
+			"ExportBundleChunkIds": [
+				"19a9fc7dcbfbfda400000001"
+			],
+			"BulkDataChunkIds": [
+				"19a9fc7dcbfbfda400000002"
+			]
+		},
+		{
+			"Name": "/Game/Audio/Rifle_Shot_ZS",
+			"ExportBundleChunkIds": [
+				"7dfc6a790b3ccb1300000001"
+			],
+			"BulkDataChunkIds": [
+				"7dfc6a790b3ccb1300000002"
+			]
+		},
+		{
+			"Name": "/Game/Audio/SA_Electrcity",
+			"ExportBundleChunkIds": [
+				"4290efeb6eb591fb00000001"
+			]
+		},
+		{
+			"Name": "/Game/Audio/SA_GnomeWalk",
+			"ExportBundleChunkIds": [
+				"d17fe828786c2ccc00000001"
+			]
+		},
+		{
+			"Name": "/Game/Audio/shatter",
+			"ExportBundleChunkIds": [
+				"22f9578aafb023f600000001"
+			],
+			"BulkDataChunkIds": [
+				"22f9578aafb023f600000002"
+			]
+		},
+		{
+			"Name": "/Game/Audio/your-days-are-gnomebered",
+			"ExportBundleChunkIds": [
+				"2896f4643e25ee4300000001"
+			],
+			"BulkDataChunkIds": [
+				"2896f4643e25ee4300000002"
+			]
+		},
+		{
 			"Name": "/Game/BluePrints/BP_AssualtRifle",
 			"ExportBundleChunkIds": [
 				"a8368f51922281ae00000001"
@@ -9170,6 +9509,12 @@
 			]
 		},
 		{
+			"Name": "/Game/BluePrints/BP_Laser_Sound",
+			"ExportBundleChunkIds": [
+				"11562658b7823e4200000001"
+			]
+		},
+		{
 			"Name": "/Game/BluePrints/BP_Lasers",
 			"ExportBundleChunkIds": [
 				"22caf7af0cb58f2d00000001"
@@ -9200,12 +9545,6 @@
 			"Name": "/Game/BluePrints/BP_seedbox",
 			"ExportBundleChunkIds": [
 				"803e7329cfb45dcb00000001"
-			]
-		},
-		{
-			"Name": "/Game/BluePrints/BP_seedbox_Child",
-			"ExportBundleChunkIds": [
-				"8ba29e876172bb6600000001"
 			]
 		},
 		{
@@ -12956,12 +13295,6 @@
 			],
 			"BulkDataChunkIds": [
 				"845108d94a77a3ff00000002"
-			]
-		},
-		{
-			"Name": "/Game/standardSurface1",
-			"ExportBundleChunkIds": [
-				"98b4dd1b4ddb78df00000001"
 			]
 		},
 		{
