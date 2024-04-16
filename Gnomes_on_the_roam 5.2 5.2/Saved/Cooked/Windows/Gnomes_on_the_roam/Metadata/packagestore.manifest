@@ -1549,186 +1549,6 @@
 			"ChunkId": "9a5a67fa3c2b2de900000001"
 		},
 		{
-			"Path": "Engine/Plugins/Bridge/Content/MSPresets/M_MS_Decal_Material/MF_QuixelDecalPOM.uasset",
-			"ChunkId": "276ffc52121d73bb00000001"
-		},
-		{
-			"Path": "Engine/Plugins/Bridge/Content/MSPresets/M_MS_Default_Fuzz_Material/Functions/MF_Fuzz.uasset",
-			"ChunkId": "7725e8af9040d20400000001"
-		},
-		{
-			"Path": "Engine/Plugins/Bridge/Content/MSPresets/M_MS_Default_Fuzz_Material/Functions/MF_Tiling.uasset",
-			"ChunkId": "2388043ce309fc5700000001"
-		},
-		{
-			"Path": "Engine/Plugins/Bridge/Content/MSPresets/M_MS_Default_Material/Functions/MF_MapAdjustments.uasset",
-			"ChunkId": "75c0d805ea99882000000001"
-		},
-		{
-			"Path": "Engine/Plugins/Bridge/Content/MSPresets/M_MS_Default_Material/Functions/MF_ObjAdjustments.uasset",
-			"ChunkId": "eda0b7c35b896ec700000001"
-		},
-		{
-			"Path": "Engine/Plugins/Bridge/Content/MSPresets/M_MS_Default_Material/Functions/MF_Tiling.uasset",
-			"ChunkId": "a720fe51c9e7236600000001"
-		},
-		{
-			"Path": "Engine/Plugins/Bridge/Content/MSPresets/M_MS_Default_Material/Functions/MF_Transmission.uasset",
-			"ChunkId": "b161e795e7c2726600000001"
-		},
-		{
-			"Path": "Engine/Plugins/Bridge/Content/MSPresets/M_MS_Default_Transmission_Material/Functions/MF_SSSObjAdjustments.uasset",
-			"ChunkId": "c9677fda19a0fc8000000001"
-		},
-		{
-			"Path": "Engine/Plugins/Bridge/Content/MSPresets/M_MS_Foliage_Material/Functions/MF_Translucency.uasset",
-			"ChunkId": "9abea847133f108e00000001"
-		},
-		{
-			"Path": "Engine/Plugins/Bridge/Content/MSPresets/M_MS_Glass_Material/Functions/MF_FrameBlend.uasset",
-			"ChunkId": "548c32fa931da93600000001"
-		},
-		{
-			"Path": "Engine/Plugins/Bridge/Content/MSPresets/M_MS_Glass_Material/Functions/MF_Refraction.uasset",
-			"ChunkId": "a78356530cc3383800000001"
-		},
-		{
-			"Path": "Engine/Plugins/Bridge/Content/MSPresets/M_MS_Glass_Material/Functions/MF_TranslucencyEmission.uasset",
-			"ChunkId": "9ab7cad940fff8cc00000001"
-		},
-		{
-			"Path": "Engine/Plugins/Bridge/Content/MSPresets/M_MS_Glass_Material/Functions/MF_TranslucencyMetallic.uasset",
-			"ChunkId": "0464e1023c52b13500000001"
-		},
-		{
-			"Path": "Engine/Plugins/Bridge/Content/MSPresets/M_MS_Glass_Material/Functions/MF_WindowImperfection.uasset",
-			"ChunkId": "6f7f2d389edb767b00000001"
-		},
-		{
-			"Path": "Engine/Plugins/Bridge/Content/MSPresets/M_MS_Glass_Material/Functions/MF_WindowNormalStrength.uasset",
-			"ChunkId": "2210a8fe3b78abf500000001"
-		},
-		{
-			"Path": "Engine/Plugins/Bridge/Content/MSPresets/M_MS_Glass_Material/M_MS_Glass_Material.uasset",
-			"ChunkId": "9a2fb6f4311750bb00000001"
-		},
-		{
-			"Path": "Engine/Plugins/Bridge/Content/MSPresets/M_MS_Glass_Material/Textures/Black.uasset",
-			"ChunkId": "a05881b71657356400000001"
-		},
-		{
-			"Path": "Engine/Plugins/Bridge/Content/MSPresets/M_MS_Glass_Material/Textures/Black.ubulk",
-			"ChunkId": "a05881b71657356400000002"
-		},
-		{
-			"Path": "Engine/Plugins/Bridge/Content/MSPresets/M_MS_Glass_Material/Textures/White.uasset",
-			"ChunkId": "3f4002a9340e8dc000000001"
-		},
-		{
-			"Path": "Engine/Plugins/Bridge/Content/MSPresets/M_MS_Glass_Material/Textures/White.ubulk",
-			"ChunkId": "3f4002a9340e8dc000000002"
-		},
-		{
-			"Path": "Engine/Plugins/Bridge/Content/MSPresets/M_MS_Surface_Material/Functions/MF_Transmission.uasset",
-			"ChunkId": "133d48a829f2f8d700000001"
-		},
-		{
-			"Path": "Engine/Plugins/Bridge/Content/MSPresets/M_MS_SurfaceBlend_Material/LayerFunctions/Base/MF_BaseLayerAdjustments.uasset",
-			"ChunkId": "1d831eff3436f99e00000001"
-		},
-		{
-			"Path": "Engine/Plugins/Bridge/Content/MSPresets/M_MS_SurfaceBlend_Material/LayerFunctions/Base/MF_BaseLayerTextures.uasset",
-			"ChunkId": "c72092454b45938700000001"
-		},
-		{
-			"Path": "Engine/Plugins/Bridge/Content/MSPresets/M_MS_SurfaceBlend_Material/LayerFunctions/MF_BlendScatter.uasset",
-			"ChunkId": "d76812d3dc6a949400000001"
-		},
-		{
-			"Path": "Engine/Plugins/Bridge/Content/MSPresets/M_MS_SurfaceBlend_Material/LayerFunctions/MF_Displacement.uasset",
-			"ChunkId": "deb4428776fa590f00000001"
-		},
-		{
-			"Path": "Engine/Plugins/Bridge/Content/MSPresets/M_MS_SurfaceBlend_Material/LayerFunctions/MF_MaterialBlend.uasset",
-			"ChunkId": "a5e15f8c04b05e6f00000001"
-		},
-		{
-			"Path": "Engine/Plugins/Bridge/Content/MSPresets/M_MS_SurfaceBlend_Material/LayerFunctions/MF_NormalCorrection.uasset",
-			"ChunkId": "10eb759e118825bb00000001"
-		},
-		{
-			"Path": "Engine/Plugins/Bridge/Content/MSPresets/M_MS_SurfaceBlend_Material/LayerFunctions/MF_ScatterLayer.uasset",
-			"ChunkId": "4be33d1b7b0240b500000001"
-		},
-		{
-			"Path": "Engine/Plugins/Bridge/Content/MSPresets/M_MS_SurfaceBlend_Material/LayerFunctions/Middle/MF_MiddleLayerAdjustments.uasset",
-			"ChunkId": "db2bba41a75f0d9d00000001"
-		},
-		{
-			"Path": "Engine/Plugins/Bridge/Content/MSPresets/M_MS_SurfaceBlend_Material/LayerFunctions/Middle/MF_MiddleLayerTextures.uasset",
-			"ChunkId": "14ac3421d29e2bcf00000001"
-		},
-		{
-			"Path": "Engine/Plugins/Bridge/Content/MSPresets/M_MS_SurfaceBlend_Material/LayerFunctions/Puddle/MF_PuddleLayer.uasset",
-			"ChunkId": "de5b1c00abc3dfcb00000001"
-		},
-		{
-			"Path": "Engine/Plugins/Bridge/Content/MSPresets/M_MS_SurfaceBlend_Material/LayerFunctions/Top/MF_TopLayerAdjustments.uasset",
-			"ChunkId": "762d675071f4c5c700000001"
-		},
-		{
-			"Path": "Engine/Plugins/Bridge/Content/MSPresets/M_MS_SurfaceBlend_Material/LayerFunctions/Top/MF_TopLayerTextures.uasset",
-			"ChunkId": "354d0e296e84a58b00000001"
-		},
-		{
-			"Path": "Engine/Plugins/Bridge/Content/MSPresets/MSTextures/Black.uasset",
-			"ChunkId": "4c698912d2e6bc6700000001"
-		},
-		{
-			"Path": "Engine/Plugins/Bridge/Content/MSPresets/MSTextures/Black.ubulk",
-			"ChunkId": "4c698912d2e6bc6700000002"
-		},
-		{
-			"Path": "Engine/Plugins/Bridge/Content/MSPresets/MSTextures/BlackPlaceholder.uasset",
-			"ChunkId": "a9ba804b8c16a6be00000001"
-		},
-		{
-			"Path": "Engine/Plugins/Bridge/Content/MSPresets/MSTextures/FlatNormal.uasset",
-			"ChunkId": "08d1cf2e703fc0d700000001"
-		},
-		{
-			"Path": "Engine/Plugins/Bridge/Content/MSPresets/MSTextures/Placeholder_Normal.uasset",
-			"ChunkId": "4b25b8d0ca51f5e500000001"
-		},
-		{
-			"Path": "Engine/Plugins/Bridge/Content/MSPresets/MSTextures/White.uasset",
-			"ChunkId": "7edbf62a5e83105e00000001"
-		},
-		{
-			"Path": "Engine/Plugins/Bridge/Content/MSPresets/MSTextures/White.ubulk",
-			"ChunkId": "7edbf62a5e83105e00000002"
-		},
-		{
-			"Path": "Engine/Plugins/Bridge/Content/MSPresets/MSTextures/WhitePlaceholder.uasset",
-			"ChunkId": "9bca40ee0454f11e00000001"
-		},
-		{
-			"Path": "Engine/Plugins/Bridge/Content/MSPresets/MSVTTextures/BlackPlaceholder.uasset",
-			"ChunkId": "f7ecd531b9912d0400000001"
-		},
-		{
-			"Path": "Engine/Plugins/Bridge/Content/MSPresets/MSVTTextures/DefaultDiffuse.uasset",
-			"ChunkId": "7bf7bd281574837700000001"
-		},
-		{
-			"Path": "Engine/Plugins/Bridge/Content/MSPresets/MSVTTextures/Placeholder_Normal.uasset",
-			"ChunkId": "dd3bbb12cc99027c00000001"
-		},
-		{
-			"Path": "Engine/Plugins/Bridge/Content/MSPresets/MSVTTextures/WhitePlaceholder.uasset",
-			"ChunkId": "c01cf9f3bedd845e00000001"
-		},
-		{
 			"Path": "Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/Empty.uasset",
 			"ChunkId": "efd3b99beb745ea100000001"
 		},
@@ -2097,6 +1917,14 @@
 			"ChunkId": "5598e421e3cbc14700000002"
 		},
 		{
+			"Path": "Gnomes_on_the_roam/Content/Audio/Cant_Afford.uasset",
+			"ChunkId": "54135dd3e9450dcb00000001"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/Audio/Cant_Afford.ubulk",
+			"ChunkId": "54135dd3e9450dcb00000002"
+		},
+		{
 			"Path": "Gnomes_on_the_roam/Content/Audio/chip.uasset",
 			"ChunkId": "72c906a85ead190b00000001"
 		},
@@ -2271,6 +2099,10 @@
 		{
 			"Path": "Gnomes_on_the_roam/Content/BluePrints/BP_GnomeShatter.uasset",
 			"ChunkId": "a3ae8ed51b9a078900000001"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/BluePrints/BP_LampPost.uasset",
+			"ChunkId": "6ff740629a5d5cbd00000001"
 		},
 		{
 			"Path": "Gnomes_on_the_roam/Content/BluePrints/BP_Laser_Sound.uasset",
@@ -3785,6 +3617,42 @@
 			"ChunkId": "28419a1c89cdfe1f00000001"
 		},
 		{
+			"Path": "Gnomes_on_the_roam/Content/Materials/Lamp_Post/M_Lamp_post.uasset",
+			"ChunkId": "8448d22fe55fc62200000001"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/Materials/Lamp_Post/SM_LampPost_standardSurface1_BaseColor.uasset",
+			"ChunkId": "2732ed38d98bbdc700000001"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/Materials/Lamp_Post/SM_LampPost_standardSurface1_BaseColor.ubulk",
+			"ChunkId": "2732ed38d98bbdc700000002"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/Materials/Lamp_Post/SM_LampPost_standardSurface1_Emissive.uasset",
+			"ChunkId": "36d1be588deccae800000001"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/Materials/Lamp_Post/SM_LampPost_standardSurface1_Emissive.ubulk",
+			"ChunkId": "36d1be588deccae800000002"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/Materials/Lamp_Post/SM_LampPost_standardSurface1_Normal.uasset",
+			"ChunkId": "9fc2c7c8d8cd0e7500000001"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/Materials/Lamp_Post/SM_LampPost_standardSurface1_Normal.ubulk",
+			"ChunkId": "9fc2c7c8d8cd0e7500000002"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/Materials/Lamp_Post/SM_LampPost_standardSurface1_OcclusionRoughnessMetallic.uasset",
+			"ChunkId": "e398fa41a9e0057400000001"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/Materials/Lamp_Post/SM_LampPost_standardSurface1_OcclusionRoughnessMetallic.ubulk",
+			"ChunkId": "e398fa41a9e0057400000002"
+		},
+		{
 			"Path": "Gnomes_on_the_roam/Content/Materials/Landscape/M_Landscape.uasset",
 			"ChunkId": "b3002d00230c811e00000001"
 		},
@@ -4033,28 +3901,28 @@
 			"ChunkId": "c1ffb4c646fd42f300000001"
 		},
 		{
-			"Path": "Gnomes_on_the_roam/Content/Materials/Props/SM_Plane_standardSurface1_BaseColor.uasset",
-			"ChunkId": "9e16f714001386d900000001"
+			"Path": "Gnomes_on_the_roam/Content/Materials/Props/SM_TrimPlane_standardSurface1_BaseColor.uasset",
+			"ChunkId": "0efa0c79ef771fa100000001"
 		},
 		{
-			"Path": "Gnomes_on_the_roam/Content/Materials/Props/SM_Plane_standardSurface1_BaseColor.ubulk",
-			"ChunkId": "9e16f714001386d900000002"
+			"Path": "Gnomes_on_the_roam/Content/Materials/Props/SM_TrimPlane_standardSurface1_BaseColor.ubulk",
+			"ChunkId": "0efa0c79ef771fa100000002"
 		},
 		{
-			"Path": "Gnomes_on_the_roam/Content/Materials/Props/SM_Plane_standardSurface1_Normal.uasset",
-			"ChunkId": "7fa01d5f763d059a00000001"
+			"Path": "Gnomes_on_the_roam/Content/Materials/Props/SM_TrimPlane_standardSurface1_Normal.uasset",
+			"ChunkId": "d95d9b7081e4aa1200000001"
 		},
 		{
-			"Path": "Gnomes_on_the_roam/Content/Materials/Props/SM_Plane_standardSurface1_Normal.ubulk",
-			"ChunkId": "7fa01d5f763d059a00000002"
+			"Path": "Gnomes_on_the_roam/Content/Materials/Props/SM_TrimPlane_standardSurface1_Normal.ubulk",
+			"ChunkId": "d95d9b7081e4aa1200000002"
 		},
 		{
-			"Path": "Gnomes_on_the_roam/Content/Materials/Props/SM_Plane_standardSurface1_OcclusionRoughnessMetallic.uasset",
-			"ChunkId": "f038477a29b1a2ca00000001"
+			"Path": "Gnomes_on_the_roam/Content/Materials/Props/SM_TrimPlane_standardSurface1_OcclusionRoughnessMetallic.uasset",
+			"ChunkId": "3264b6ebfd4fb86c00000001"
 		},
 		{
-			"Path": "Gnomes_on_the_roam/Content/Materials/Props/SM_Plane_standardSurface1_OcclusionRoughnessMetallic.ubulk",
-			"ChunkId": "f038477a29b1a2ca00000002"
+			"Path": "Gnomes_on_the_roam/Content/Materials/Props/SM_TrimPlane_standardSurface1_OcclusionRoughnessMetallic.ubulk",
+			"ChunkId": "3264b6ebfd4fb86c00000002"
 		},
 		{
 			"Path": "Gnomes_on_the_roam/Content/Materials/Seed_Stalls/Cacus/M_SS_Cactus.uasset",
@@ -4633,6 +4501,22 @@
 			"ChunkId": "71fdafd1fe71244b00000002"
 		},
 		{
+			"Path": "Gnomes_on_the_roam/Content/models/SM_Flower_Pot.uasset",
+			"ChunkId": "b302cdbf49ebaa4100000001"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/models/SM_Flower_Pot.ubulk",
+			"ChunkId": "b302cdbf49ebaa4100000002"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/models/SM_LampPost.uasset",
+			"ChunkId": "9223dcd31d22c89900000001"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/models/SM_LampPost.ubulk",
+			"ChunkId": "9223dcd31d22c89900000002"
+		},
+		{
 			"Path": "Gnomes_on_the_roam/Content/models/SM_Metal_gate.uasset",
 			"ChunkId": "c2e0c2a2dc8681a500000001"
 		},
@@ -4695,6 +4579,14 @@
 		{
 			"Path": "Gnomes_on_the_roam/Content/models/SM_SeedStall_LP.ubulk",
 			"ChunkId": "ed6c2d81030eb84d00000002"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/models/SM_Shelves.uasset",
+			"ChunkId": "47deddd7251121e000000001"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/models/SM_Shelves.ubulk",
+			"ChunkId": "47deddd7251121e000000002"
 		},
 		{
 			"Path": "Gnomes_on_the_roam/Content/models/SM_Tall_plant_pot.uasset",
@@ -6947,264 +6839,6 @@
 	],
 	"Packages": [
 		{
-			"Name": "/Bridge/MSPresets/M_MS_Decal_Material/MF_QuixelDecalPOM",
-			"ExportBundleChunkIds": [
-				"276ffc52121d73bb00000001"
-			]
-		},
-		{
-			"Name": "/Bridge/MSPresets/M_MS_Default_Fuzz_Material/Functions/MF_Fuzz",
-			"ExportBundleChunkIds": [
-				"7725e8af9040d20400000001"
-			]
-		},
-		{
-			"Name": "/Bridge/MSPresets/M_MS_Default_Fuzz_Material/Functions/MF_Tiling",
-			"ExportBundleChunkIds": [
-				"2388043ce309fc5700000001"
-			]
-		},
-		{
-			"Name": "/Bridge/MSPresets/M_MS_Default_Material/Functions/MF_MapAdjustments",
-			"ExportBundleChunkIds": [
-				"75c0d805ea99882000000001"
-			]
-		},
-		{
-			"Name": "/Bridge/MSPresets/M_MS_Default_Material/Functions/MF_ObjAdjustments",
-			"ExportBundleChunkIds": [
-				"eda0b7c35b896ec700000001"
-			]
-		},
-		{
-			"Name": "/Bridge/MSPresets/M_MS_Default_Material/Functions/MF_Tiling",
-			"ExportBundleChunkIds": [
-				"a720fe51c9e7236600000001"
-			]
-		},
-		{
-			"Name": "/Bridge/MSPresets/M_MS_Default_Material/Functions/MF_Transmission",
-			"ExportBundleChunkIds": [
-				"b161e795e7c2726600000001"
-			]
-		},
-		{
-			"Name": "/Bridge/MSPresets/M_MS_Default_Transmission_Material/Functions/MF_SSSObjAdjustments",
-			"ExportBundleChunkIds": [
-				"c9677fda19a0fc8000000001"
-			]
-		},
-		{
-			"Name": "/Bridge/MSPresets/M_MS_Foliage_Material/Functions/MF_Translucency",
-			"ExportBundleChunkIds": [
-				"9abea847133f108e00000001"
-			]
-		},
-		{
-			"Name": "/Bridge/MSPresets/M_MS_Glass_Material/Functions/MF_FrameBlend",
-			"ExportBundleChunkIds": [
-				"548c32fa931da93600000001"
-			]
-		},
-		{
-			"Name": "/Bridge/MSPresets/M_MS_Glass_Material/Functions/MF_Refraction",
-			"ExportBundleChunkIds": [
-				"a78356530cc3383800000001"
-			]
-		},
-		{
-			"Name": "/Bridge/MSPresets/M_MS_Glass_Material/Functions/MF_TranslucencyEmission",
-			"ExportBundleChunkIds": [
-				"9ab7cad940fff8cc00000001"
-			]
-		},
-		{
-			"Name": "/Bridge/MSPresets/M_MS_Glass_Material/Functions/MF_TranslucencyMetallic",
-			"ExportBundleChunkIds": [
-				"0464e1023c52b13500000001"
-			]
-		},
-		{
-			"Name": "/Bridge/MSPresets/M_MS_Glass_Material/Functions/MF_WindowImperfection",
-			"ExportBundleChunkIds": [
-				"6f7f2d389edb767b00000001"
-			]
-		},
-		{
-			"Name": "/Bridge/MSPresets/M_MS_Glass_Material/Functions/MF_WindowNormalStrength",
-			"ExportBundleChunkIds": [
-				"2210a8fe3b78abf500000001"
-			]
-		},
-		{
-			"Name": "/Bridge/MSPresets/M_MS_Glass_Material/M_MS_Glass_Material",
-			"ExportBundleChunkIds": [
-				"9a2fb6f4311750bb00000001"
-			]
-		},
-		{
-			"Name": "/Bridge/MSPresets/M_MS_Glass_Material/Textures/Black",
-			"ExportBundleChunkIds": [
-				"a05881b71657356400000001"
-			],
-			"BulkDataChunkIds": [
-				"a05881b71657356400000002"
-			]
-		},
-		{
-			"Name": "/Bridge/MSPresets/M_MS_Glass_Material/Textures/White",
-			"ExportBundleChunkIds": [
-				"3f4002a9340e8dc000000001"
-			],
-			"BulkDataChunkIds": [
-				"3f4002a9340e8dc000000002"
-			]
-		},
-		{
-			"Name": "/Bridge/MSPresets/M_MS_Surface_Material/Functions/MF_Transmission",
-			"ExportBundleChunkIds": [
-				"133d48a829f2f8d700000001"
-			]
-		},
-		{
-			"Name": "/Bridge/MSPresets/M_MS_SurfaceBlend_Material/LayerFunctions/Base/MF_BaseLayerAdjustments",
-			"ExportBundleChunkIds": [
-				"1d831eff3436f99e00000001"
-			]
-		},
-		{
-			"Name": "/Bridge/MSPresets/M_MS_SurfaceBlend_Material/LayerFunctions/Base/MF_BaseLayerTextures",
-			"ExportBundleChunkIds": [
-				"c72092454b45938700000001"
-			]
-		},
-		{
-			"Name": "/Bridge/MSPresets/M_MS_SurfaceBlend_Material/LayerFunctions/MF_BlendScatter",
-			"ExportBundleChunkIds": [
-				"d76812d3dc6a949400000001"
-			]
-		},
-		{
-			"Name": "/Bridge/MSPresets/M_MS_SurfaceBlend_Material/LayerFunctions/MF_Displacement",
-			"ExportBundleChunkIds": [
-				"deb4428776fa590f00000001"
-			]
-		},
-		{
-			"Name": "/Bridge/MSPresets/M_MS_SurfaceBlend_Material/LayerFunctions/MF_MaterialBlend",
-			"ExportBundleChunkIds": [
-				"a5e15f8c04b05e6f00000001"
-			]
-		},
-		{
-			"Name": "/Bridge/MSPresets/M_MS_SurfaceBlend_Material/LayerFunctions/MF_NormalCorrection",
-			"ExportBundleChunkIds": [
-				"10eb759e118825bb00000001"
-			]
-		},
-		{
-			"Name": "/Bridge/MSPresets/M_MS_SurfaceBlend_Material/LayerFunctions/MF_ScatterLayer",
-			"ExportBundleChunkIds": [
-				"4be33d1b7b0240b500000001"
-			]
-		},
-		{
-			"Name": "/Bridge/MSPresets/M_MS_SurfaceBlend_Material/LayerFunctions/Middle/MF_MiddleLayerAdjustments",
-			"ExportBundleChunkIds": [
-				"db2bba41a75f0d9d00000001"
-			]
-		},
-		{
-			"Name": "/Bridge/MSPresets/M_MS_SurfaceBlend_Material/LayerFunctions/Middle/MF_MiddleLayerTextures",
-			"ExportBundleChunkIds": [
-				"14ac3421d29e2bcf00000001"
-			]
-		},
-		{
-			"Name": "/Bridge/MSPresets/M_MS_SurfaceBlend_Material/LayerFunctions/Puddle/MF_PuddleLayer",
-			"ExportBundleChunkIds": [
-				"de5b1c00abc3dfcb00000001"
-			]
-		},
-		{
-			"Name": "/Bridge/MSPresets/M_MS_SurfaceBlend_Material/LayerFunctions/Top/MF_TopLayerAdjustments",
-			"ExportBundleChunkIds": [
-				"762d675071f4c5c700000001"
-			]
-		},
-		{
-			"Name": "/Bridge/MSPresets/M_MS_SurfaceBlend_Material/LayerFunctions/Top/MF_TopLayerTextures",
-			"ExportBundleChunkIds": [
-				"354d0e296e84a58b00000001"
-			]
-		},
-		{
-			"Name": "/Bridge/MSPresets/MSTextures/Black",
-			"ExportBundleChunkIds": [
-				"4c698912d2e6bc6700000001"
-			],
-			"BulkDataChunkIds": [
-				"4c698912d2e6bc6700000002"
-			]
-		},
-		{
-			"Name": "/Bridge/MSPresets/MSTextures/BlackPlaceholder",
-			"ExportBundleChunkIds": [
-				"a9ba804b8c16a6be00000001"
-			]
-		},
-		{
-			"Name": "/Bridge/MSPresets/MSTextures/FlatNormal",
-			"ExportBundleChunkIds": [
-				"08d1cf2e703fc0d700000001"
-			]
-		},
-		{
-			"Name": "/Bridge/MSPresets/MSTextures/Placeholder_Normal",
-			"ExportBundleChunkIds": [
-				"4b25b8d0ca51f5e500000001"
-			]
-		},
-		{
-			"Name": "/Bridge/MSPresets/MSTextures/White",
-			"ExportBundleChunkIds": [
-				"7edbf62a5e83105e00000001"
-			],
-			"BulkDataChunkIds": [
-				"7edbf62a5e83105e00000002"
-			]
-		},
-		{
-			"Name": "/Bridge/MSPresets/MSTextures/WhitePlaceholder",
-			"ExportBundleChunkIds": [
-				"9bca40ee0454f11e00000001"
-			]
-		},
-		{
-			"Name": "/Bridge/MSPresets/MSVTTextures/BlackPlaceholder",
-			"ExportBundleChunkIds": [
-				"f7ecd531b9912d0400000001"
-			]
-		},
-		{
-			"Name": "/Bridge/MSPresets/MSVTTextures/DefaultDiffuse",
-			"ExportBundleChunkIds": [
-				"7bf7bd281574837700000001"
-			]
-		},
-		{
-			"Name": "/Bridge/MSPresets/MSVTTextures/Placeholder_Normal",
-			"ExportBundleChunkIds": [
-				"dd3bbb12cc99027c00000001"
-			]
-		},
-		{
-			"Name": "/Bridge/MSPresets/MSVTTextures/WhitePlaceholder",
-			"ExportBundleChunkIds": [
-				"c01cf9f3bedd845e00000001"
-			]
-		},
-		{
 			"Name": "/ControlRig/Controls/ControlRig_Arrow2_1mm",
 			"ExportBundleChunkIds": [
 				"a9e8edb09171185f00000001"
@@ -9284,6 +8918,15 @@
 			]
 		},
 		{
+			"Name": "/Game/Audio/Cant_Afford",
+			"ExportBundleChunkIds": [
+				"54135dd3e9450dcb00000001"
+			],
+			"BulkDataChunkIds": [
+				"54135dd3e9450dcb00000002"
+			]
+		},
+		{
 			"Name": "/Game/Audio/chip",
 			"ExportBundleChunkIds": [
 				"72c906a85ead190b00000001"
@@ -9506,6 +9149,12 @@
 			"Name": "/Game/BluePrints/BP_GnomeShatter",
 			"ExportBundleChunkIds": [
 				"a3ae8ed51b9a078900000001"
+			]
+		},
+		{
+			"Name": "/Game/BluePrints/BP_LampPost",
+			"ExportBundleChunkIds": [
+				"6ff740629a5d5cbd00000001"
 			]
 		},
 		{
@@ -11504,6 +11153,48 @@
 			]
 		},
 		{
+			"Name": "/Game/Materials/Lamp_Post/M_Lamp_post",
+			"ExportBundleChunkIds": [
+				"8448d22fe55fc62200000001"
+			]
+		},
+		{
+			"Name": "/Game/Materials/Lamp_Post/SM_LampPost_standardSurface1_BaseColor",
+			"ExportBundleChunkIds": [
+				"2732ed38d98bbdc700000001"
+			],
+			"BulkDataChunkIds": [
+				"2732ed38d98bbdc700000002"
+			]
+		},
+		{
+			"Name": "/Game/Materials/Lamp_Post/SM_LampPost_standardSurface1_Emissive",
+			"ExportBundleChunkIds": [
+				"36d1be588deccae800000001"
+			],
+			"BulkDataChunkIds": [
+				"36d1be588deccae800000002"
+			]
+		},
+		{
+			"Name": "/Game/Materials/Lamp_Post/SM_LampPost_standardSurface1_Normal",
+			"ExportBundleChunkIds": [
+				"9fc2c7c8d8cd0e7500000001"
+			],
+			"BulkDataChunkIds": [
+				"9fc2c7c8d8cd0e7500000002"
+			]
+		},
+		{
+			"Name": "/Game/Materials/Lamp_Post/SM_LampPost_standardSurface1_OcclusionRoughnessMetallic",
+			"ExportBundleChunkIds": [
+				"e398fa41a9e0057400000001"
+			],
+			"BulkDataChunkIds": [
+				"e398fa41a9e0057400000002"
+			]
+		},
+		{
 			"Name": "/Game/Materials/Landscape/M_Landscape",
 			"ExportBundleChunkIds": [
 				"b3002d00230c811e00000001"
@@ -11816,30 +11507,30 @@
 			]
 		},
 		{
-			"Name": "/Game/Materials/Props/SM_Plane_standardSurface1_BaseColor",
+			"Name": "/Game/Materials/Props/SM_TrimPlane_standardSurface1_BaseColor",
 			"ExportBundleChunkIds": [
-				"9e16f714001386d900000001"
+				"0efa0c79ef771fa100000001"
 			],
 			"BulkDataChunkIds": [
-				"9e16f714001386d900000002"
+				"0efa0c79ef771fa100000002"
 			]
 		},
 		{
-			"Name": "/Game/Materials/Props/SM_Plane_standardSurface1_Normal",
+			"Name": "/Game/Materials/Props/SM_TrimPlane_standardSurface1_Normal",
 			"ExportBundleChunkIds": [
-				"7fa01d5f763d059a00000001"
+				"d95d9b7081e4aa1200000001"
 			],
 			"BulkDataChunkIds": [
-				"7fa01d5f763d059a00000002"
+				"d95d9b7081e4aa1200000002"
 			]
 		},
 		{
-			"Name": "/Game/Materials/Props/SM_Plane_standardSurface1_OcclusionRoughnessMetallic",
+			"Name": "/Game/Materials/Props/SM_TrimPlane_standardSurface1_OcclusionRoughnessMetallic",
 			"ExportBundleChunkIds": [
-				"f038477a29b1a2ca00000001"
+				"3264b6ebfd4fb86c00000001"
 			],
 			"BulkDataChunkIds": [
-				"f038477a29b1a2ca00000002"
+				"3264b6ebfd4fb86c00000002"
 			]
 		},
 		{
@@ -12548,6 +12239,24 @@
 			]
 		},
 		{
+			"Name": "/Game/models/SM_Flower_Pot",
+			"ExportBundleChunkIds": [
+				"b302cdbf49ebaa4100000001"
+			],
+			"BulkDataChunkIds": [
+				"b302cdbf49ebaa4100000002"
+			]
+		},
+		{
+			"Name": "/Game/models/SM_LampPost",
+			"ExportBundleChunkIds": [
+				"9223dcd31d22c89900000001"
+			],
+			"BulkDataChunkIds": [
+				"9223dcd31d22c89900000002"
+			]
+		},
+		{
 			"Name": "/Game/models/SM_Metal_gate",
 			"ExportBundleChunkIds": [
 				"c2e0c2a2dc8681a500000001"
@@ -12617,6 +12326,15 @@
 			],
 			"BulkDataChunkIds": [
 				"ed6c2d81030eb84d00000002"
+			]
+		},
+		{
+			"Name": "/Game/models/SM_Shelves",
+			"ExportBundleChunkIds": [
+				"47deddd7251121e000000001"
+			],
+			"BulkDataChunkIds": [
+				"47deddd7251121e000000002"
 			]
 		},
 		{
