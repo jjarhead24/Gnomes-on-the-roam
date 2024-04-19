@@ -4361,6 +4361,10 @@
 			"ChunkId": "eb399a900dd57a7d00000002"
 		},
 		{
+			"Path": "Gnomes_on_the_roam/Content/models/Gnome/AM_Gnome.uasset",
+			"ChunkId": "ed8a2ff705a9b5f400000001"
+		},
+		{
 			"Path": "Gnomes_on_the_roam/Content/models/Gnome/GC_Gnome.uasset",
 			"ChunkId": "a90cdae46535a98500000001"
 		},
@@ -4375,6 +4379,10 @@
 		{
 			"Path": "Gnomes_on_the_roam/Content/models/Gnome/Gnome_BS.uasset",
 			"ChunkId": "4462a06443643af800000001"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/models/Gnome/Gnome_notify.uasset",
+			"ChunkId": "c5e6adb19120b32400000001"
 		},
 		{
 			"Path": "Gnomes_on_the_roam/Content/models/Gnome/Gnome_walking.uasset",
@@ -5373,12 +5381,36 @@
 			"ChunkId": "5358c1b0ff19bd1c00000001"
 		},
 		{
+			"Path": "Gnomes_on_the_roam/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset",
+			"ChunkId": "30f95388a2288fc700000001"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.ubulk",
+			"ChunkId": "30f95388a2288fc700000002"
+		},
+		{
 			"Path": "Gnomes_on_the_roam/Content/StarterContent/Maps/Minimal_Default.umap",
 			"ChunkId": "c18c1e9eb562281d00000001"
 		},
 		{
+			"Path": "Gnomes_on_the_roam/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset",
+			"ChunkId": "21ce25f9846d572700000001"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/StarterContent/Maps/Minimal_Default_BuiltData.ubulk",
+			"ChunkId": "21ce25f9846d572700000002"
+		},
+		{
 			"Path": "Gnomes_on_the_roam/Content/StarterContent/Maps/StarterMap.umap",
 			"ChunkId": "368650c1fabbcfa500000001"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/StarterContent/Maps/StarterMap_BuiltData.uasset",
+			"ChunkId": "5cf0172e915d8e3600000001"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/StarterContent/Maps/StarterMap_BuiltData.ubulk",
+			"ChunkId": "5cf0172e915d8e3600000002"
 		},
 		{
 			"Path": "Gnomes_on_the_roam/Content/StarterContent/Materials/M_AssetPlatform.uasset",
@@ -6835,6 +6867,46 @@
 		{
 			"Path": "Gnomes_on_the_roam/Content/Tree/Right/right_tree_op.ubulk",
 			"ChunkId": "daa91435c0d6a68500000002"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/UI/Ammo_counter.uasset",
+			"ChunkId": "37b19ed76867e03400000001"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/UI/Button.uasset",
+			"ChunkId": "a2b6a318f4493fac00000001"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/UI/Button_Clicked.uasset",
+			"ChunkId": "a239162820671b7600000001"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/UI/Button_Hovered.uasset",
+			"ChunkId": "a7813d872f787cea00000001"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/UI/Gnome_Counter.uasset",
+			"ChunkId": "9a453eff717ed52c00000001"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/UI/Health_Empty.uasset",
+			"ChunkId": "1f74477d6a70ad7400000001"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/UI/Health_Full.uasset",
+			"ChunkId": "1a3992389784af5f00000001"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/UI/Leaderboard.uasset",
+			"ChunkId": "6586dcb77f2b176300000001"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/UI/Points_counter.uasset",
+			"ChunkId": "d5fa03bae3c415b200000001"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/UI/Round_counter.uasset",
+			"ChunkId": "c7b9e6f47df63f4900000001"
 		}
 	],
 	"Packages": [
@@ -12053,6 +12125,12 @@
 			]
 		},
 		{
+			"Name": "/Game/models/Gnome/AM_Gnome",
+			"ExportBundleChunkIds": [
+				"ed8a2ff705a9b5f400000001"
+			]
+		},
+		{
 			"Name": "/Game/models/Gnome/GC_Gnome",
 			"ExportBundleChunkIds": [
 				"a90cdae46535a98500000001"
@@ -12074,6 +12152,12 @@
 			"Name": "/Game/models/Gnome/Gnome_BS",
 			"ExportBundleChunkIds": [
 				"4462a06443643af800000001"
+			]
+		},
+		{
+			"Name": "/Game/models/Gnome/Gnome_notify",
+			"ExportBundleChunkIds": [
+				"c5e6adb19120b32400000001"
 			]
 		},
 		{
@@ -13415,15 +13499,42 @@
 			]
 		},
 		{
+			"Name": "/Game/StarterContent/Maps/Advanced_Lighting_BuiltData",
+			"ExportBundleChunkIds": [
+				"30f95388a2288fc700000001"
+			],
+			"BulkDataChunkIds": [
+				"30f95388a2288fc700000002"
+			]
+		},
+		{
 			"Name": "/Game/StarterContent/Maps/Minimal_Default",
 			"ExportBundleChunkIds": [
 				"c18c1e9eb562281d00000001"
 			]
 		},
 		{
+			"Name": "/Game/StarterContent/Maps/Minimal_Default_BuiltData",
+			"ExportBundleChunkIds": [
+				"21ce25f9846d572700000001"
+			],
+			"BulkDataChunkIds": [
+				"21ce25f9846d572700000002"
+			]
+		},
+		{
 			"Name": "/Game/StarterContent/Maps/StarterMap",
 			"ExportBundleChunkIds": [
 				"368650c1fabbcfa500000001"
+			]
+		},
+		{
+			"Name": "/Game/StarterContent/Maps/StarterMap_BuiltData",
+			"ExportBundleChunkIds": [
+				"5cf0172e915d8e3600000001"
+			],
+			"BulkDataChunkIds": [
+				"5cf0172e915d8e3600000002"
 			]
 		},
 		{
@@ -15179,6 +15290,66 @@
 			],
 			"BulkDataChunkIds": [
 				"daa91435c0d6a68500000002"
+			]
+		},
+		{
+			"Name": "/Game/UI/Ammo_counter",
+			"ExportBundleChunkIds": [
+				"37b19ed76867e03400000001"
+			]
+		},
+		{
+			"Name": "/Game/UI/Button",
+			"ExportBundleChunkIds": [
+				"a2b6a318f4493fac00000001"
+			]
+		},
+		{
+			"Name": "/Game/UI/Button_Clicked",
+			"ExportBundleChunkIds": [
+				"a239162820671b7600000001"
+			]
+		},
+		{
+			"Name": "/Game/UI/Button_Hovered",
+			"ExportBundleChunkIds": [
+				"a7813d872f787cea00000001"
+			]
+		},
+		{
+			"Name": "/Game/UI/Gnome_Counter",
+			"ExportBundleChunkIds": [
+				"9a453eff717ed52c00000001"
+			]
+		},
+		{
+			"Name": "/Game/UI/Health_Empty",
+			"ExportBundleChunkIds": [
+				"1f74477d6a70ad7400000001"
+			]
+		},
+		{
+			"Name": "/Game/UI/Health_Full",
+			"ExportBundleChunkIds": [
+				"1a3992389784af5f00000001"
+			]
+		},
+		{
+			"Name": "/Game/UI/Leaderboard",
+			"ExportBundleChunkIds": [
+				"6586dcb77f2b176300000001"
+			]
+		},
+		{
+			"Name": "/Game/UI/Points_counter",
+			"ExportBundleChunkIds": [
+				"d5fa03bae3c415b200000001"
+			]
+		},
+		{
+			"Name": "/Game/UI/Round_counter",
+			"ExportBundleChunkIds": [
+				"c7b9e6f47df63f4900000001"
 			]
 		},
 		{

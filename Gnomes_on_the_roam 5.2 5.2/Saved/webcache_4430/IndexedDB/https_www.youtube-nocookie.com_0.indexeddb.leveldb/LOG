@@ -1,6 +1,0 @@
-2024/03/18-11:34:17.700 1e4c Creating DB C:/Users/jared/Desktop/Gnomes-on-the-roam/Gnomes_on_the_roam 5.2 5.2/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
-2024/03/18-11:34:17.706 1e4c Reusing MANIFEST C:/Users/jared/Desktop/Gnomes-on-the-roam/Gnomes_on_the_roam 5.2 5.2/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/03/18-11:42:15.383 823c Level-0 table #5: started
-2024/03/18-11:42:15.420 823c Level-0 table #5: 1167 bytes OK
-2024/03/18-11:42:15.421 823c Delete type=0 #3
-2024/03/18-11:42:15.421 823c Manual compaction at level-0 from (begin) .. (end); will stop at (end)
