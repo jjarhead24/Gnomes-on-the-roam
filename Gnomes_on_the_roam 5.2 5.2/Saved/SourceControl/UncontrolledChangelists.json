@@ -5,7 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/c0999686/Desktop/Gnomes_on_the_roam 5.2 5.2/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"C:/Users/c0999686/Documents/GitHub/Gnomes-on-the-roam/Gnomes_on_the_roam 5.2 5.2/Content/AI/BP_enemy_character.uasset",
 				"C:/Users/c0999686/Documents/GitHub/Gnomes-on-the-roam/Gnomes_on_the_roam 5.2 5.2/Content/__ExternalActors__/FirstPerson/Maps/Gnomes_on_the_Roam/5/NH/W2IXHV0UEM0QALHLG3ZMUK.uasset",
 				"C:/Users/c0999686/Documents/GitHub/Gnomes-on-the-roam/Gnomes_on_the_roam 5.2 5.2/Content/Materials/Outlines.uasset",
@@ -20,7 +19,22 @@
 				"C:/Users/c0999686/Documents/GitHub/Gnomes-on-the-roam/Gnomes_on_the_roam 5.2 5.2/Content/__ExternalActors__/FirstPerson/Maps/Gnomes_on_the_Roam/D/0Q/E3KDA0E42916T7JMTKIZHT.uasset",
 				"C:/Users/c0999686/Documents/GitHub/Gnomes-on-the-roam/Gnomes_on_the_roam 5.2 5.2/Content/Materials/Fog.uasset",
 				"C:/Users/c0999686/Documents/GitHub/Gnomes-on-the-roam/Gnomes_on_the_roam 5.2 5.2/Content/Materials/MonicaGarden-G3OGD.uasset",
-				"C:/Users/c0999686/Documents/GitHub/Gnomes-on-the-roam/Gnomes_on_the_roam 5.2 5.2/Content/Materials/MonicaGarden-G3OGD_Font.uasset"
+				"C:/Users/c0999686/Documents/GitHub/Gnomes-on-the-roam/Gnomes_on_the_roam 5.2 5.2/Content/Materials/MonicaGarden-G3OGD_Font.uasset",
+				"C:/Users/c0999686/Documents/GitHub/Gnomes-on-the-roam/Gnomes_on_the_roam 5.2 5.2/Content/models/Props/SM_Rake.uasset",
+				"C:/Users/c0999686/Documents/GitHub/Gnomes-on-the-roam/Gnomes_on_the_roam 5.2 5.2/Content/models/SM_Rake.uasset",
+				"C:/Users/c0999686/Documents/GitHub/Gnomes-on-the-roam/Gnomes_on_the_roam 5.2 5.2/Content/models/Props/SM_Shelves.uasset",
+				"C:/Users/c0999686/Documents/GitHub/Gnomes-on-the-roam/Gnomes_on_the_roam 5.2 5.2/Content/models/SM_Shelves.uasset",
+				"C:/Users/c0999686/Documents/GitHub/Gnomes-on-the-roam/Gnomes_on_the_roam 5.2 5.2/Content/models/Props/SM_Flower_Pot.uasset",
+				"C:/Users/c0999686/Documents/GitHub/Gnomes-on-the-roam/Gnomes_on_the_roam 5.2 5.2/Content/models/SM_Flower_Pot.uasset",
+				"C:/Users/c0999686/Documents/GitHub/Gnomes-on-the-roam/Gnomes_on_the_roam 5.2 5.2/Content/models/SM_Acorn.uasset",
+				"C:/Users/c0999686/Documents/GitHub/Gnomes-on-the-roam/Gnomes_on_the_roam 5.2 5.2/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset",
+				"C:/Users/c0999686/Documents/GitHub/Gnomes-on-the-roam/Gnomes_on_the_roam 5.2 5.2/Content/models/Props/SM_wateringCan.uasset",
+				"C:/Users/c0999686/Documents/GitHub/Gnomes-on-the-roam/Gnomes_on_the_roam 5.2 5.2/Content/Materials/Acorn/SM_Acorn_standardSurface1_BaseColor.uasset",
+				"C:/Users/c0999686/Documents/GitHub/Gnomes-on-the-roam/Gnomes_on_the_roam 5.2 5.2/Content/Materials/Acorn/SM_Acorn_standardSurface1_Normal.uasset",
+				"C:/Users/c0999686/Documents/GitHub/Gnomes-on-the-roam/Gnomes_on_the_roam 5.2 5.2/Content/Materials/Acorn/SM_Acorn_standardSurface1_OcclusionRoughnessMetallic.uasset",
+				"C:/Users/c0999686/Documents/GitHub/Gnomes-on-the-roam/Gnomes_on_the_roam 5.2 5.2/Content/Materials/Acorn/M_Acorn.uasset",
+				"C:/Users/c0999686/Documents/GitHub/Gnomes-on-the-roam/Gnomes_on_the_roam 5.2 5.2/Content/models/Props/SM_Shovel.uasset",
+				"C:/Users/c0999686/Desktop/Gnomes_on_the_roam 5.2 5.2/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
 			]
 		}
 	]
