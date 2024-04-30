@@ -1669,6 +1669,10 @@
 			"ChunkId": "32a17abc290d048e00000001"
 		},
 		{
+			"Path": "Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraCurlNoiseQuality.uasset",
+			"ChunkId": "7f0cd591e5f21c8c00000001"
+		},
+		{
 			"Path": "Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterLifeCycleMode.uasset",
 			"ChunkId": "236f8301b0415ddb00000001"
 		},
@@ -1687,6 +1691,10 @@
 		{
 			"Path": "Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraInactiveMode.uasset",
 			"ChunkId": "c59e08e7b318df6f00000001"
+		},
+		{
+			"Path": "Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraMeshTransforms.uasset",
+			"ChunkId": "2edf26bfc26203c000000001"
 		},
 		{
 			"Path": "Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessEvaluation.uasset",
@@ -1805,6 +1813,38 @@
 			"ChunkId": "836c921bc569333800000001"
 		},
 		{
+			"Path": "Engine/Plugins/FX/Niagara/Content/Enums/Wind/ENiagaraWindCombingMode.uasset",
+			"ChunkId": "0a01553976da367200000001"
+		},
+		{
+			"Path": "Engine/Plugins/FX/Niagara/Content/Enums/Wind/ENiagaraWindFrictionDistanceMode.uasset",
+			"ChunkId": "c68631e009a55c1000000001"
+		},
+		{
+			"Path": "Engine/Plugins/FX/Niagara/Content/Enums/Wind/ENiagaraWindFrictionMode.uasset",
+			"ChunkId": "4bca6632d49743dd00000001"
+		},
+		{
+			"Path": "Engine/Plugins/FX/Niagara/Content/Enums/Wind/ENiagaraWindGroundMaskMode.uasset",
+			"ChunkId": "5b669ef0c5f98f2800000001"
+		},
+		{
+			"Path": "Engine/Plugins/FX/Niagara/Content/Enums/Wind/ENiagaraWindOffsetMode.uasset",
+			"ChunkId": "b3c80243ff45450000000001"
+		},
+		{
+			"Path": "Engine/Plugins/FX/Niagara/Content/Enums/Wind/ENiagaraWindTurbulenceContributionMode.uasset",
+			"ChunkId": "ab623204312d324700000001"
+		},
+		{
+			"Path": "Engine/Plugins/FX/Niagara/Content/Enums/Wind/ENiagaraWindTurbulenceFrequencyMode.uasset",
+			"ChunkId": "7190b2bae1260bc600000001"
+		},
+		{
+			"Path": "Engine/Plugins/FX/Niagara/Content/Enums/Wind/ENiagaraWindTurbulenceMode.uasset",
+			"ChunkId": "b42e2403f3f35f1f00000001"
+		},
+		{
 			"Path": "Engine/Plugins/FX/Niagara/Content/Icons/Modules/T_Icon_Particle_InfiniteLife.uasset",
 			"ChunkId": "01ef8b8437d851f900000001"
 		},
@@ -1819,6 +1859,18 @@
 		{
 			"Path": "Engine/Plugins/FX/Niagara/Content/Icons/Modules/T_Icon_Solver_RotationalSolve.uasset",
 			"ChunkId": "57b7a44e84f90b8100000001"
+		},
+		{
+			"Path": "Engine/Plugins/FX/Niagara/Content/VectorFields/Assets/TilingCurl16.uasset",
+			"ChunkId": "110a6ebac442f41c00000001"
+		},
+		{
+			"Path": "Engine/Plugins/FX/Niagara/Content/VectorFields/Assets/TilingCurl32.uasset",
+			"ChunkId": "a835619b73eeaa1600000001"
+		},
+		{
+			"Path": "Engine/Plugins/FX/Niagara/Content/VectorFields/Assets/TilingCurl64.uasset",
+			"ChunkId": "7bf38c99711fc2ab00000001"
 		},
 		{
 			"Path": "Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultAssetsPipeline.uasset",
@@ -2099,6 +2151,10 @@
 		{
 			"Path": "Gnomes_on_the_roam/Content/BluePrints/BP_GnomeShatter.uasset",
 			"ChunkId": "a3ae8ed51b9a078900000001"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/BluePrints/BP_IFlowers.uasset",
+			"ChunkId": "cd524e5a7047057900000001"
 		},
 		{
 			"Path": "Gnomes_on_the_roam/Content/BluePrints/BP_LampPost.uasset",
@@ -3097,6 +3153,10 @@
 			"ChunkId": "d1a0985b9d3baa4500000001"
 		},
 		{
+			"Path": "Gnomes_on_the_roam/Content/HUD/WB_deathScreen.uasset",
+			"ChunkId": "f046268b379b0d9600000001"
+		},
+		{
 			"Path": "Gnomes_on_the_roam/Content/HUD/WB_HUD.uasset",
 			"ChunkId": "789e755f634bf48300000001"
 		},
@@ -3249,6 +3309,34 @@
 			"ChunkId": "fb665700f3ff966700000001"
 		},
 		{
+			"Path": "Gnomes_on_the_roam/Content/Materials/Acorn/M_Acorn.uasset",
+			"ChunkId": "7fc18070a8b6d2ee00000001"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/Materials/Acorn/SM_Acorn_standardSurface1_BaseColor.uasset",
+			"ChunkId": "ed2b6c7f3c63081400000001"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/Materials/Acorn/SM_Acorn_standardSurface1_BaseColor.ubulk",
+			"ChunkId": "ed2b6c7f3c63081400000002"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/Materials/Acorn/SM_Acorn_standardSurface1_Normal.uasset",
+			"ChunkId": "9f2c01b217f54ac100000001"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/Materials/Acorn/SM_Acorn_standardSurface1_Normal.ubulk",
+			"ChunkId": "9f2c01b217f54ac100000002"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/Materials/Acorn/SM_Acorn_standardSurface1_OcclusionRoughnessMetallic.uasset",
+			"ChunkId": "9bd2a48143e9648100000001"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/Materials/Acorn/SM_Acorn_standardSurface1_OcclusionRoughnessMetallic.ubulk",
+			"ChunkId": "9bd2a48143e9648100000002"
+		},
+		{
 			"Path": "Gnomes_on_the_roam/Content/Materials/AR/M_Assualt.uasset",
 			"ChunkId": "1d3214cf36a2002d00000001"
 		},
@@ -3275,6 +3363,70 @@
 		{
 			"Path": "Gnomes_on_the_roam/Content/Materials/AR/SM_assualt_Rifle_standardSurface1_OcclusionRoughnessMetallic.ubulk",
 			"ChunkId": "5727d7cd51f2f2ea00000002"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/Materials/Basket/Emiisive/M_Basket.uasset",
+			"ChunkId": "3310d5d7ca15f9b400000001"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/Materials/Basket/Emiisive/SM_Basket_WFlowers_standardSurface1_BaseColor.uasset",
+			"ChunkId": "bb20feeb5b6c953d00000001"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/Materials/Basket/Emiisive/SM_Basket_WFlowers_standardSurface1_BaseColor.ubulk",
+			"ChunkId": "bb20feeb5b6c953d00000002"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/Materials/Basket/Emiisive/SM_Basket_WFlowers_standardSurface1_Emissive.uasset",
+			"ChunkId": "b79ceb6dc598034000000001"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/Materials/Basket/Emiisive/SM_Basket_WFlowers_standardSurface1_Emissive.ubulk",
+			"ChunkId": "b79ceb6dc598034000000002"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/Materials/Basket/Emiisive/SM_Basket_WFlowers_standardSurface1_Normal.uasset",
+			"ChunkId": "5e431f63b4ee8a3500000001"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/Materials/Basket/Emiisive/SM_Basket_WFlowers_standardSurface1_Normal.ubulk",
+			"ChunkId": "5e431f63b4ee8a3500000002"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/Materials/Basket/Emiisive/SM_Basket_WFlowers_standardSurface1_OcclusionRoughnessMetallic.uasset",
+			"ChunkId": "26df916452eba6b300000001"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/Materials/Basket/Emiisive/SM_Basket_WFlowers_standardSurface1_OcclusionRoughnessMetallic.ubulk",
+			"ChunkId": "26df916452eba6b300000002"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/Materials/Basket/Non_emmissive/M_Basket_NE.uasset",
+			"ChunkId": "aeebd547f6d97f3400000001"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/Materials/Basket/Non_emmissive/SM_Basket_WFlowers_standardSurface1_BaseColor.uasset",
+			"ChunkId": "6eae8cb90e68b86e00000001"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/Materials/Basket/Non_emmissive/SM_Basket_WFlowers_standardSurface1_BaseColor.ubulk",
+			"ChunkId": "6eae8cb90e68b86e00000002"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/Materials/Basket/Non_emmissive/SM_Basket_WFlowers_standardSurface1_Normal.uasset",
+			"ChunkId": "8c729a13a91be7bf00000001"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/Materials/Basket/Non_emmissive/SM_Basket_WFlowers_standardSurface1_Normal.ubulk",
+			"ChunkId": "8c729a13a91be7bf00000002"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/Materials/Basket/Non_emmissive/SM_Basket_WFlowers_standardSurface1_OcclusionRoughnessMetallic.uasset",
+			"ChunkId": "9875d983a9e91ddb00000001"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/Materials/Basket/Non_emmissive/SM_Basket_WFlowers_standardSurface1_OcclusionRoughnessMetallic.ubulk",
+			"ChunkId": "9875d983a9e91ddb00000002"
 		},
 		{
 			"Path": "Gnomes_on_the_roam/Content/Materials/Bell/M_Bell.uasset",
@@ -3617,6 +3769,14 @@
 			"ChunkId": "28419a1c89cdfe1f00000001"
 		},
 		{
+			"Path": "Gnomes_on_the_roam/Content/Materials/Grass.uasset",
+			"ChunkId": "afcf0b001423277f00000001"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/Materials/Grass_Mat.uasset",
+			"ChunkId": "0c1b009e0bf4ec5800000001"
+		},
+		{
 			"Path": "Gnomes_on_the_roam/Content/Materials/Lamp_Post/M_Lamp_post.uasset",
 			"ChunkId": "8448d22fe55fc62200000001"
 		},
@@ -3669,6 +3829,14 @@
 			"ChunkId": "b23efa0aeda53aa800000002"
 		},
 		{
+			"Path": "Gnomes_on_the_roam/Content/Materials/Leaf.uasset",
+			"ChunkId": "d332fda022d5d5b800000001"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/Materials/Leaf_opc.uasset",
+			"ChunkId": "382c6251e7ee265b00000001"
+		},
+		{
 			"Path": "Gnomes_on_the_roam/Content/Materials/M_Black.uasset",
 			"ChunkId": "3f148ea94ce3176100000001"
 		},
@@ -3695,6 +3863,10 @@
 		{
 			"Path": "Gnomes_on_the_roam/Content/Materials/M_Lasers.uasset",
 			"ChunkId": "5abab068b5518ad600000001"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/Materials/M_Small_Leaves.uasset",
+			"ChunkId": "1b2ebeee9b8c88d100000001"
 		},
 		{
 			"Path": "Gnomes_on_the_roam/Content/Materials/Master_material.uasset",
@@ -3731,6 +3903,14 @@
 		{
 			"Path": "Gnomes_on_the_roam/Content/Materials/Metal_Gate/Metal_gate_standardSurface1_OcclusionRoughnessMetallic.ubulk",
 			"ChunkId": "2176fbfb58953b8600000002"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/Materials/MonicaGarden-G3OGD.uasset",
+			"ChunkId": "6e7dcfa225bfdcff00000001"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/Materials/MonicaGarden-G3OGD_Font.uasset",
+			"ChunkId": "d2e6de03e6908d0400000001"
 		},
 		{
 			"Path": "Gnomes_on_the_roam/Content/Materials/Outlines.uasset",
@@ -4445,6 +4625,86 @@
 			"ChunkId": "c5fffd957e8ac2e100000002"
 		},
 		{
+			"Path": "Gnomes_on_the_roam/Content/models/Props/SM_Bucket.uasset",
+			"ChunkId": "05e224f3b7cdb50500000001"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/models/Props/SM_Bucket.ubulk",
+			"ChunkId": "05e224f3b7cdb50500000002"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/models/Props/SM_Flower_Pot.uasset",
+			"ChunkId": "8dc06116e7b26ad800000001"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/models/Props/SM_Flower_Pot.ubulk",
+			"ChunkId": "8dc06116e7b26ad800000002"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/models/Props/SM_Rake.uasset",
+			"ChunkId": "67342ba9aee17a3a00000001"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/models/Props/SM_Rake.ubulk",
+			"ChunkId": "67342ba9aee17a3a00000002"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/models/Props/SM_Shelves.uasset",
+			"ChunkId": "2930cd5dd4d1d10000000001"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/models/Props/SM_Shelves.ubulk",
+			"ChunkId": "2930cd5dd4d1d10000000002"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/models/Props/SM_Shovel.uasset",
+			"ChunkId": "e14f8f3301a4791200000001"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/models/Props/SM_Shovel.ubulk",
+			"ChunkId": "e14f8f3301a4791200000002"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/models/Props/SM_wateringCan.uasset",
+			"ChunkId": "117f8539c2339fbf00000001"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/models/Props/SM_wateringCan.ubulk",
+			"ChunkId": "117f8539c2339fbf00000002"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/models/Props/SM_WheelBarrow.uasset",
+			"ChunkId": "80522f09147a022600000001"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/models/Props/SM_WheelBarrow.ubulk",
+			"ChunkId": "80522f09147a022600000002"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/models/SM_Acorn.uasset",
+			"ChunkId": "c58a275a2c31779f00000001"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/models/SM_Acorn.ubulk",
+			"ChunkId": "c58a275a2c31779f00000002"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/models/SM_Basket.uasset",
+			"ChunkId": "3a80dd89cfb325f100000001"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/models/SM_Basket.ubulk",
+			"ChunkId": "3a80dd89cfb325f100000002"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/models/SM_Basket_WFlowers.uasset",
+			"ChunkId": "8f74926ba52580e100000001"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/models/SM_Basket_WFlowers.ubulk",
+			"ChunkId": "8f74926ba52580e100000002"
+		},
+		{
 			"Path": "Gnomes_on_the_roam/Content/models/SM_Bench.uasset",
 			"ChunkId": "9e85347a3003d6e500000001"
 		},
@@ -4459,6 +4719,14 @@
 		{
 			"Path": "Gnomes_on_the_roam/Content/models/SM_Bin.ubulk",
 			"ChunkId": "c1dc33c8a9b39c7900000002"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/models/SM_Blue_Flower.uasset",
+			"ChunkId": "a3ca13d891d766e200000001"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/models/SM_Blue_Flower.ubulk",
+			"ChunkId": "a3ca13d891d766e200000002"
 		},
 		{
 			"Path": "Gnomes_on_the_roam/Content/models/SM_Brass_bell.uasset",
@@ -4509,12 +4777,16 @@
 			"ChunkId": "71fdafd1fe71244b00000002"
 		},
 		{
-			"Path": "Gnomes_on_the_roam/Content/models/SM_Flower_Pot.uasset",
-			"ChunkId": "b302cdbf49ebaa4100000001"
+			"Path": "Gnomes_on_the_roam/Content/models/SM_Grass_Plain.uasset",
+			"ChunkId": "43977b5facc4e63c00000001"
 		},
 		{
-			"Path": "Gnomes_on_the_roam/Content/models/SM_Flower_Pot.ubulk",
-			"ChunkId": "b302cdbf49ebaa4100000002"
+			"Path": "Gnomes_on_the_roam/Content/models/SM_Grass_Plain.ubulk",
+			"ChunkId": "43977b5facc4e63c00000002"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/models/SM_Grass_Plain_FoliageType.uasset",
+			"ChunkId": "e0602998ef336a6900000001"
 		},
 		{
 			"Path": "Gnomes_on_the_roam/Content/models/SM_LampPost.uasset",
@@ -4525,12 +4797,28 @@
 			"ChunkId": "9223dcd31d22c89900000002"
 		},
 		{
+			"Path": "Gnomes_on_the_roam/Content/models/SM_Leaf_plane.uasset",
+			"ChunkId": "a270d5d8acaf9ace00000001"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/models/SM_Leaf_plane.ubulk",
+			"ChunkId": "a270d5d8acaf9ace00000002"
+		},
+		{
 			"Path": "Gnomes_on_the_roam/Content/models/SM_Metal_gate.uasset",
 			"ChunkId": "c2e0c2a2dc8681a500000001"
 		},
 		{
 			"Path": "Gnomes_on_the_roam/Content/models/SM_Metal_gate.ubulk",
 			"ChunkId": "c2e0c2a2dc8681a500000002"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/models/SM_Pink_Flower.uasset",
+			"ChunkId": "7fa14010dc7f9e0200000001"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/models/SM_Pink_Flower.ubulk",
+			"ChunkId": "7fa14010dc7f9e0200000002"
 		},
 		{
 			"Path": "Gnomes_on_the_roam/Content/models/SM_Pistol.uasset",
@@ -4573,12 +4861,12 @@
 			"ChunkId": "16bc37c9123d465000000002"
 		},
 		{
-			"Path": "Gnomes_on_the_roam/Content/models/SM_Rake.uasset",
-			"ChunkId": "db8952339721273e00000001"
+			"Path": "Gnomes_on_the_roam/Content/models/SM_Purple_Flower.uasset",
+			"ChunkId": "bc7da7253cff2ed500000001"
 		},
 		{
-			"Path": "Gnomes_on_the_roam/Content/models/SM_Rake.ubulk",
-			"ChunkId": "db8952339721273e00000002"
+			"Path": "Gnomes_on_the_roam/Content/models/SM_Purple_Flower.ubulk",
+			"ChunkId": "bc7da7253cff2ed500000002"
 		},
 		{
 			"Path": "Gnomes_on_the_roam/Content/models/SM_SeedStall_LP.uasset",
@@ -4587,14 +4875,6 @@
 		{
 			"Path": "Gnomes_on_the_roam/Content/models/SM_SeedStall_LP.ubulk",
 			"ChunkId": "ed6c2d81030eb84d00000002"
-		},
-		{
-			"Path": "Gnomes_on_the_roam/Content/models/SM_Shelves.uasset",
-			"ChunkId": "47deddd7251121e000000001"
-		},
-		{
-			"Path": "Gnomes_on_the_roam/Content/models/SM_Shelves.ubulk",
-			"ChunkId": "47deddd7251121e000000002"
 		},
 		{
 			"Path": "Gnomes_on_the_roam/Content/models/SM_Tall_plant_pot.uasset",
@@ -4611,6 +4891,14 @@
 		{
 			"Path": "Gnomes_on_the_roam/Content/models/SM_Teleporter.ubulk",
 			"ChunkId": "02775c5a92be167500000002"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/models/SM_White_Flower.uasset",
+			"ChunkId": "8eb1883c74a7e6e300000001"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/models/SM_White_Flower.ubulk",
+			"ChunkId": "8eb1883c74a7e6e300000002"
 		},
 		{
 			"Path": "Gnomes_on_the_roam/Content/models/Sunny/lambert1.uasset",
@@ -5035,6 +5323,10 @@
 		{
 			"Path": "Gnomes_on_the_roam/Content/Niagra/FX_EletricArcs.uasset",
 			"ChunkId": "77ca04d56361856200000001"
+		},
+		{
+			"Path": "Gnomes_on_the_roam/Content/Niagra/FX_Falling_leaves.uasset",
+			"ChunkId": "02e84aed75b469c800000001"
 		},
 		{
 			"Path": "Gnomes_on_the_roam/Content/Niagra/FX_fireworks.uasset",
@@ -9224,6 +9516,12 @@
 			]
 		},
 		{
+			"Name": "/Game/BluePrints/BP_IFlowers",
+			"ExportBundleChunkIds": [
+				"cd524e5a7047057900000001"
+			]
+		},
+		{
 			"Name": "/Game/BluePrints/BP_LampPost",
 			"ExportBundleChunkIds": [
 				"6ff740629a5d5cbd00000001"
@@ -10601,6 +10899,12 @@
 			]
 		},
 		{
+			"Name": "/Game/HUD/WB_deathScreen",
+			"ExportBundleChunkIds": [
+				"f046268b379b0d9600000001"
+			]
+		},
+		{
 			"Name": "/Game/HUD/WB_HUD",
 			"ExportBundleChunkIds": [
 				"789e755f634bf48300000001"
@@ -10790,6 +11094,39 @@
 			]
 		},
 		{
+			"Name": "/Game/Materials/Acorn/M_Acorn",
+			"ExportBundleChunkIds": [
+				"7fc18070a8b6d2ee00000001"
+			]
+		},
+		{
+			"Name": "/Game/Materials/Acorn/SM_Acorn_standardSurface1_BaseColor",
+			"ExportBundleChunkIds": [
+				"ed2b6c7f3c63081400000001"
+			],
+			"BulkDataChunkIds": [
+				"ed2b6c7f3c63081400000002"
+			]
+		},
+		{
+			"Name": "/Game/Materials/Acorn/SM_Acorn_standardSurface1_Normal",
+			"ExportBundleChunkIds": [
+				"9f2c01b217f54ac100000001"
+			],
+			"BulkDataChunkIds": [
+				"9f2c01b217f54ac100000002"
+			]
+		},
+		{
+			"Name": "/Game/Materials/Acorn/SM_Acorn_standardSurface1_OcclusionRoughnessMetallic",
+			"ExportBundleChunkIds": [
+				"9bd2a48143e9648100000001"
+			],
+			"BulkDataChunkIds": [
+				"9bd2a48143e9648100000002"
+			]
+		},
+		{
 			"Name": "/Game/Materials/AR/M_Assualt",
 			"ExportBundleChunkIds": [
 				"1d3214cf36a2002d00000001"
@@ -10820,6 +11157,81 @@
 			],
 			"BulkDataChunkIds": [
 				"5727d7cd51f2f2ea00000002"
+			]
+		},
+		{
+			"Name": "/Game/Materials/Basket/Emiisive/M_Basket",
+			"ExportBundleChunkIds": [
+				"3310d5d7ca15f9b400000001"
+			]
+		},
+		{
+			"Name": "/Game/Materials/Basket/Emiisive/SM_Basket_WFlowers_standardSurface1_BaseColor",
+			"ExportBundleChunkIds": [
+				"bb20feeb5b6c953d00000001"
+			],
+			"BulkDataChunkIds": [
+				"bb20feeb5b6c953d00000002"
+			]
+		},
+		{
+			"Name": "/Game/Materials/Basket/Emiisive/SM_Basket_WFlowers_standardSurface1_Emissive",
+			"ExportBundleChunkIds": [
+				"b79ceb6dc598034000000001"
+			],
+			"BulkDataChunkIds": [
+				"b79ceb6dc598034000000002"
+			]
+		},
+		{
+			"Name": "/Game/Materials/Basket/Emiisive/SM_Basket_WFlowers_standardSurface1_Normal",
+			"ExportBundleChunkIds": [
+				"5e431f63b4ee8a3500000001"
+			],
+			"BulkDataChunkIds": [
+				"5e431f63b4ee8a3500000002"
+			]
+		},
+		{
+			"Name": "/Game/Materials/Basket/Emiisive/SM_Basket_WFlowers_standardSurface1_OcclusionRoughnessMetallic",
+			"ExportBundleChunkIds": [
+				"26df916452eba6b300000001"
+			],
+			"BulkDataChunkIds": [
+				"26df916452eba6b300000002"
+			]
+		},
+		{
+			"Name": "/Game/Materials/Basket/Non_emmissive/M_Basket_NE",
+			"ExportBundleChunkIds": [
+				"aeebd547f6d97f3400000001"
+			]
+		},
+		{
+			"Name": "/Game/Materials/Basket/Non_emmissive/SM_Basket_WFlowers_standardSurface1_BaseColor",
+			"ExportBundleChunkIds": [
+				"6eae8cb90e68b86e00000001"
+			],
+			"BulkDataChunkIds": [
+				"6eae8cb90e68b86e00000002"
+			]
+		},
+		{
+			"Name": "/Game/Materials/Basket/Non_emmissive/SM_Basket_WFlowers_standardSurface1_Normal",
+			"ExportBundleChunkIds": [
+				"8c729a13a91be7bf00000001"
+			],
+			"BulkDataChunkIds": [
+				"8c729a13a91be7bf00000002"
+			]
+		},
+		{
+			"Name": "/Game/Materials/Basket/Non_emmissive/SM_Basket_WFlowers_standardSurface1_OcclusionRoughnessMetallic",
+			"ExportBundleChunkIds": [
+				"9875d983a9e91ddb00000001"
+			],
+			"BulkDataChunkIds": [
+				"9875d983a9e91ddb00000002"
 			]
 		},
 		{
@@ -11225,6 +11637,18 @@
 			]
 		},
 		{
+			"Name": "/Game/Materials/Grass",
+			"ExportBundleChunkIds": [
+				"afcf0b001423277f00000001"
+			]
+		},
+		{
+			"Name": "/Game/Materials/Grass_Mat",
+			"ExportBundleChunkIds": [
+				"0c1b009e0bf4ec5800000001"
+			]
+		},
+		{
 			"Name": "/Game/Materials/Lamp_Post/M_Lamp_post",
 			"ExportBundleChunkIds": [
 				"8448d22fe55fc62200000001"
@@ -11288,6 +11712,18 @@
 			]
 		},
 		{
+			"Name": "/Game/Materials/Leaf",
+			"ExportBundleChunkIds": [
+				"d332fda022d5d5b800000001"
+			]
+		},
+		{
+			"Name": "/Game/Materials/Leaf_opc",
+			"ExportBundleChunkIds": [
+				"382c6251e7ee265b00000001"
+			]
+		},
+		{
 			"Name": "/Game/Materials/M_Black",
 			"ExportBundleChunkIds": [
 				"3f148ea94ce3176100000001"
@@ -11327,6 +11763,12 @@
 			"Name": "/Game/Materials/M_Lasers",
 			"ExportBundleChunkIds": [
 				"5abab068b5518ad600000001"
+			]
+		},
+		{
+			"Name": "/Game/Materials/M_Small_Leaves",
+			"ExportBundleChunkIds": [
+				"1b2ebeee9b8c88d100000001"
 			]
 		},
 		{
@@ -11372,6 +11814,18 @@
 			],
 			"BulkDataChunkIds": [
 				"2176fbfb58953b8600000002"
+			]
+		},
+		{
+			"Name": "/Game/Materials/MonicaGarden-G3OGD",
+			"ExportBundleChunkIds": [
+				"6e7dcfa225bfdcff00000001"
+			]
+		},
+		{
+			"Name": "/Game/Materials/MonicaGarden-G3OGD_Font",
+			"ExportBundleChunkIds": [
+				"d2e6de03e6908d0400000001"
 			]
 		},
 		{
@@ -12251,6 +12705,96 @@
 			]
 		},
 		{
+			"Name": "/Game/models/Props/SM_Bucket",
+			"ExportBundleChunkIds": [
+				"05e224f3b7cdb50500000001"
+			],
+			"BulkDataChunkIds": [
+				"05e224f3b7cdb50500000002"
+			]
+		},
+		{
+			"Name": "/Game/models/Props/SM_Flower_Pot",
+			"ExportBundleChunkIds": [
+				"8dc06116e7b26ad800000001"
+			],
+			"BulkDataChunkIds": [
+				"8dc06116e7b26ad800000002"
+			]
+		},
+		{
+			"Name": "/Game/models/Props/SM_Rake",
+			"ExportBundleChunkIds": [
+				"67342ba9aee17a3a00000001"
+			],
+			"BulkDataChunkIds": [
+				"67342ba9aee17a3a00000002"
+			]
+		},
+		{
+			"Name": "/Game/models/Props/SM_Shelves",
+			"ExportBundleChunkIds": [
+				"2930cd5dd4d1d10000000001"
+			],
+			"BulkDataChunkIds": [
+				"2930cd5dd4d1d10000000002"
+			]
+		},
+		{
+			"Name": "/Game/models/Props/SM_Shovel",
+			"ExportBundleChunkIds": [
+				"e14f8f3301a4791200000001"
+			],
+			"BulkDataChunkIds": [
+				"e14f8f3301a4791200000002"
+			]
+		},
+		{
+			"Name": "/Game/models/Props/SM_wateringCan",
+			"ExportBundleChunkIds": [
+				"117f8539c2339fbf00000001"
+			],
+			"BulkDataChunkIds": [
+				"117f8539c2339fbf00000002"
+			]
+		},
+		{
+			"Name": "/Game/models/Props/SM_WheelBarrow",
+			"ExportBundleChunkIds": [
+				"80522f09147a022600000001"
+			],
+			"BulkDataChunkIds": [
+				"80522f09147a022600000002"
+			]
+		},
+		{
+			"Name": "/Game/models/SM_Acorn",
+			"ExportBundleChunkIds": [
+				"c58a275a2c31779f00000001"
+			],
+			"BulkDataChunkIds": [
+				"c58a275a2c31779f00000002"
+			]
+		},
+		{
+			"Name": "/Game/models/SM_Basket",
+			"ExportBundleChunkIds": [
+				"3a80dd89cfb325f100000001"
+			],
+			"BulkDataChunkIds": [
+				"3a80dd89cfb325f100000002"
+			]
+		},
+		{
+			"Name": "/Game/models/SM_Basket_WFlowers",
+			"ExportBundleChunkIds": [
+				"8f74926ba52580e100000001"
+			],
+			"BulkDataChunkIds": [
+				"8f74926ba52580e100000002"
+			]
+		},
+		{
 			"Name": "/Game/models/SM_Bench",
 			"ExportBundleChunkIds": [
 				"9e85347a3003d6e500000001"
@@ -12266,6 +12810,15 @@
 			],
 			"BulkDataChunkIds": [
 				"c1dc33c8a9b39c7900000002"
+			]
+		},
+		{
+			"Name": "/Game/models/SM_Blue_Flower",
+			"ExportBundleChunkIds": [
+				"a3ca13d891d766e200000001"
+			],
+			"BulkDataChunkIds": [
+				"a3ca13d891d766e200000002"
 			]
 		},
 		{
@@ -12323,12 +12876,21 @@
 			]
 		},
 		{
-			"Name": "/Game/models/SM_Flower_Pot",
+			"Name": "/Game/models/SM_Flower_Pot"
+		},
+		{
+			"Name": "/Game/models/SM_Grass_Plain",
 			"ExportBundleChunkIds": [
-				"b302cdbf49ebaa4100000001"
+				"43977b5facc4e63c00000001"
 			],
 			"BulkDataChunkIds": [
-				"b302cdbf49ebaa4100000002"
+				"43977b5facc4e63c00000002"
+			]
+		},
+		{
+			"Name": "/Game/models/SM_Grass_Plain_FoliageType",
+			"ExportBundleChunkIds": [
+				"e0602998ef336a6900000001"
 			]
 		},
 		{
@@ -12341,12 +12903,30 @@
 			]
 		},
 		{
+			"Name": "/Game/models/SM_Leaf_plane",
+			"ExportBundleChunkIds": [
+				"a270d5d8acaf9ace00000001"
+			],
+			"BulkDataChunkIds": [
+				"a270d5d8acaf9ace00000002"
+			]
+		},
+		{
 			"Name": "/Game/models/SM_Metal_gate",
 			"ExportBundleChunkIds": [
 				"c2e0c2a2dc8681a500000001"
 			],
 			"BulkDataChunkIds": [
 				"c2e0c2a2dc8681a500000002"
+			]
+		},
+		{
+			"Name": "/Game/models/SM_Pink_Flower",
+			"ExportBundleChunkIds": [
+				"7fa14010dc7f9e0200000001"
+			],
+			"BulkDataChunkIds": [
+				"7fa14010dc7f9e0200000002"
 			]
 		},
 		{
@@ -12395,12 +12975,12 @@
 			]
 		},
 		{
-			"Name": "/Game/models/SM_Rake",
+			"Name": "/Game/models/SM_Purple_Flower",
 			"ExportBundleChunkIds": [
-				"db8952339721273e00000001"
+				"bc7da7253cff2ed500000001"
 			],
 			"BulkDataChunkIds": [
-				"db8952339721273e00000002"
+				"bc7da7253cff2ed500000002"
 			]
 		},
 		{
@@ -12413,13 +12993,7 @@
 			]
 		},
 		{
-			"Name": "/Game/models/SM_Shelves",
-			"ExportBundleChunkIds": [
-				"47deddd7251121e000000001"
-			],
-			"BulkDataChunkIds": [
-				"47deddd7251121e000000002"
-			]
+			"Name": "/Game/models/SM_Shelves"
 		},
 		{
 			"Name": "/Game/models/SM_SunGazibo"
@@ -12440,6 +13014,15 @@
 			],
 			"BulkDataChunkIds": [
 				"02775c5a92be167500000002"
+			]
+		},
+		{
+			"Name": "/Game/models/SM_White_Flower",
+			"ExportBundleChunkIds": [
+				"8eb1883c74a7e6e300000001"
+			],
+			"BulkDataChunkIds": [
+				"8eb1883c74a7e6e300000002"
 			]
 		},
 		{
@@ -13064,6 +13647,12 @@
 			"Name": "/Game/Niagra/FX_EletricArcs",
 			"ExportBundleChunkIds": [
 				"77ca04d56361856200000001"
+			]
+		},
+		{
+			"Name": "/Game/Niagra/FX_Falling_leaves",
+			"ExportBundleChunkIds": [
+				"02e84aed75b469c800000001"
 			]
 		},
 		{
@@ -15479,6 +16068,9 @@
 			"Name": "/Niagara/DynamicInputs/UniformRange/V2/RandomRangeInt"
 		},
 		{
+			"Name": "/Niagara/DynamicInputs/UniformRange/V2/RandomRangeVector"
+		},
+		{
 			"Name": "/Niagara/DynamicInputs/ValueFromCurve/FloatFromCurve"
 		},
 		{
@@ -15566,6 +16158,12 @@
 			]
 		},
 		{
+			"Name": "/Niagara/Enums/ENiagaraCurlNoiseQuality",
+			"ExportBundleChunkIds": [
+				"7f0cd591e5f21c8c00000001"
+			]
+		},
+		{
 			"Name": "/Niagara/Enums/ENiagaraEmitterLifeCycleMode",
 			"ExportBundleChunkIds": [
 				"236f8301b0415ddb00000001"
@@ -15593,6 +16191,12 @@
 			"Name": "/Niagara/Enums/ENiagaraInactiveMode",
 			"ExportBundleChunkIds": [
 				"c59e08e7b318df6f00000001"
+			]
+		},
+		{
+			"Name": "/Niagara/Enums/ENiagaraMeshTransforms",
+			"ExportBundleChunkIds": [
+				"2edf26bfc26203c000000001"
 			]
 		},
 		{
@@ -15770,7 +16374,58 @@
 			]
 		},
 		{
+			"Name": "/Niagara/Enums/Wind/ENiagaraWindCombingMode",
+			"ExportBundleChunkIds": [
+				"0a01553976da367200000001"
+			]
+		},
+		{
+			"Name": "/Niagara/Enums/Wind/ENiagaraWindFrictionDistanceMode",
+			"ExportBundleChunkIds": [
+				"c68631e009a55c1000000001"
+			]
+		},
+		{
+			"Name": "/Niagara/Enums/Wind/ENiagaraWindFrictionMode",
+			"ExportBundleChunkIds": [
+				"4bca6632d49743dd00000001"
+			]
+		},
+		{
+			"Name": "/Niagara/Enums/Wind/ENiagaraWindGroundMaskMode",
+			"ExportBundleChunkIds": [
+				"5b669ef0c5f98f2800000001"
+			]
+		},
+		{
+			"Name": "/Niagara/Enums/Wind/ENiagaraWindOffsetMode",
+			"ExportBundleChunkIds": [
+				"b3c80243ff45450000000001"
+			]
+		},
+		{
+			"Name": "/Niagara/Enums/Wind/ENiagaraWindTurbulenceContributionMode",
+			"ExportBundleChunkIds": [
+				"ab623204312d324700000001"
+			]
+		},
+		{
+			"Name": "/Niagara/Enums/Wind/ENiagaraWindTurbulenceFrequencyMode",
+			"ExportBundleChunkIds": [
+				"7190b2bae1260bc600000001"
+			]
+		},
+		{
+			"Name": "/Niagara/Enums/Wind/ENiagaraWindTurbulenceMode",
+			"ExportBundleChunkIds": [
+				"b42e2403f3f35f1f00000001"
+			]
+		},
+		{
 			"Name": "/Niagara/Functions/ChannelMasks/SelectV4Channel"
+		},
+		{
+			"Name": "/Niagara/Functions/DirectionAndLength"
 		},
 		{
 			"Name": "/Niagara/Functions/DirectionAndLengthSafe"
@@ -15780,6 +16435,9 @@
 		},
 		{
 			"Name": "/Niagara/Functions/Emitter/EmitterChangeState"
+		},
+		{
+			"Name": "/Niagara/Functions/FindAngleBetweenVectors"
 		},
 		{
 			"Name": "/Niagara/Functions/GetRandomInfo"
@@ -15905,6 +16563,9 @@
 			"Name": "/Niagara/Functions/V2/CalculateRandomUnitVector"
 		},
 		{
+			"Name": "/Niagara/Functions/V2/ConeMask"
+		},
+		{
 			"Name": "/Niagara/Functions/V2/DistanceBasedFalloff"
 		},
 		{
@@ -16007,10 +16668,19 @@
 			"Name": "/Niagara/Modules/Update/Forces/GravityForce"
 		},
 		{
+			"Name": "/Niagara/Modules/Update/Forces/V2/CurlNoiseForce"
+		},
+		{
 			"Name": "/Niagara/Modules/Update/Forces/VortexForce"
 		},
 		{
+			"Name": "/Niagara/Modules/Update/Forces/WindForce"
+		},
+		{
 			"Name": "/Niagara/Modules/Update/Lifetime/ParticleState"
+		},
+		{
+			"Name": "/Niagara/Modules/Update/Orientation/V2/MeshRotationForce"
 		},
 		{
 			"Name": "/Niagara/Modules/Update/Position/JitterPosition"
@@ -16038,6 +16708,24 @@
 		},
 		{
 			"Name": "/Niagara/ParameterDefinitions/SpriteRenderer"
+		},
+		{
+			"Name": "/Niagara/VectorFields/Assets/TilingCurl16",
+			"ExportBundleChunkIds": [
+				"110a6ebac442f41c00000001"
+			]
+		},
+		{
+			"Name": "/Niagara/VectorFields/Assets/TilingCurl32",
+			"ExportBundleChunkIds": [
+				"a835619b73eeaa1600000001"
+			]
+		},
+		{
+			"Name": "/Niagara/VectorFields/Assets/TilingCurl64",
+			"ExportBundleChunkIds": [
+				"7bf38c99711fc2ab00000001"
+			]
 		},
 		{
 			"Name": "/Paper2D/DefaultPaperTerrainMaterial",
